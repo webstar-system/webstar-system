@@ -71,7 +71,7 @@ A **EC 132/2023** não é uma atualização de sistema. É a troca do motor com 
 
               ## Stack
 
-              Laravel · PHP 8 · MySQL · Redis · Docker · GitHub Actions
+              Laravel · PHP · MySQL · Redis · Docker · GitHub Actions
 
               Arquitetura multi-tenant, filas assíncronas e observabilidade de ponta a ponta.
 
