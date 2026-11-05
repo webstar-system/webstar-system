@@ -34,14 +34,14 @@ plataforma de **Transformação Digital como Serviço (TDaaS)**.
 
 Da visão ao universo, do universo às soluções.
 
-| | Peça | Na narrativa | Slogan | O que é |
-|:-:|---|---|---|---|
-| <img src="assets/emblema-mrstar-192.webp" width="44" alt=""> | **[Mr. Star WebMaster](https://mrstar.com.br)** | A visão | *A estrela-guia na transformação digital do seu negócio.* | Consultoria e direção técnica com Deivison Estrela, fundador da WebStar. |
-| <img src="assets/emblema-universo-192.webp" width="44" alt=""> | **[Universo WebStar](https://universowebstar.com.br)** | O universo e a vitrine | *Um universo de soluções, conectado para escalar.* | Transformação Digital como Serviço: presença digital, marca, campanhas, automações e implantação, conectadas ao WebStar System e ao WebStar CRM. |
-| <img src="assets/emblema-system-192.webp" width="44" alt=""> | **[WebStar System](https://webstar.app.br)** | O cérebro | *Sua empresa no Universo Digital.* | Gestão, PDV e emissão de notas fiscais num só sistema, com o motor da Reforma Tributária desenvolvido pela WebStar. |
-| <img src="assets/emblema-crm-192.webp" width="44" alt=""> | **[WebStar CRM e a Estrela](https://crm.webstar.app.br)** | A voz | *Conexões inteligentes. Mais oportunidades de negócio.* | Atendimento no WhatsApp, funil de vendas, agenda e automações, com a Estrela, assistente de IA configurada com as informações da sua empresa. |
-| | **[WebStar Apps](https://webstar.app.br/ecossistema#aplicativos)** | As mãos | *Seu negócio em rotação.* | PDV Off, App Garçom, Autoatendimento e App de Delivery para o balcão, o salão e o delivery. |
-| | **[Super Combo Transformação Digital](https://webstar.app.br/super-combo)** | A oferta | *Sua empresa inteira. Um só universo.* | Gestão, nota fiscal, atendimento com IA no WhatsApp e presença digital, implantados e acompanhados por uma equipe só. |
+| Peça | Na narrativa | Slogan | O que é |
+|---|---|---|---|
+| <img src="assets/emblema-mrstar-192.webp" width="28" height="28" alt=""> **[Mr. Star WebMaster](https://mrstar.com.br)** | A visão | *A estrela-guia na transformação digital do seu negócio.* | Consultoria e direção técnica com Deivison Estrela, fundador da WebStar. |
+| <img src="assets/emblema-universo-192.webp" width="28" height="28" alt=""> **[Universo WebStar](https://universowebstar.com.br)** | O universo e a vitrine | *Um universo de soluções, conectado para escalar.* | Transformação Digital como Serviço: presença digital, marca, campanhas, automações e implantação, conectadas ao WebStar System e ao WebStar CRM. |
+| <img src="assets/emblema-system-192.webp" width="28" height="28" alt=""> **[WebStar System](https://webstar.app.br)** | O cérebro | *Sua empresa no Universo Digital.* | Gestão, PDV e emissão de notas fiscais num só sistema, com o motor da Reforma Tributária desenvolvido pela WebStar. |
+| <img src="assets/emblema-crm-192.webp" width="28" height="28" alt=""> **[WebStar CRM e a Estrela](https://crm.webstar.app.br)** | A voz | *Conexões inteligentes. Mais oportunidades de negócio.* | Atendimento no WhatsApp, funil de vendas, agenda e automações, com a Estrela, assistente de IA configurada com as informações da sua empresa. |
+| **[WebStar Apps](https://webstar.app.br/ecossistema#aplicativos)** | As mãos | *Seu negócio em rotação.* | PDV Off, App Garçom, Autoatendimento e App de Delivery para o balcão, o salão e o delivery. |
+| **[Super Combo Transformação Digital](https://webstar.app.br/super-combo)** | A oferta | *Sua empresa inteira. Um só universo.* | Gestão, nota fiscal, atendimento com IA no WhatsApp e presença digital, implantados e acompanhados por uma equipe só. |
 
 ## WebStar System — o cérebro
 
